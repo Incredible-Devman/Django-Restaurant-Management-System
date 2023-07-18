@@ -1,5 +1,7 @@
 # Restaurant Management System
 
+![Image](https://github.com/devman-AI/Django-Restaurant-Management-System/tree/master/media/intro.PNG)
+
 In this project, we present a web based restaurant management system to manage the food orders for the given menu and for the given customer. It also provides home delivery facility. Also, it provides an admin interface to view and control all the users, their orders, and the menu of the Restaurant. 
 
 ## Features
